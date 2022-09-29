@@ -54,7 +54,7 @@
 /* ------------------------------BANNER AREA START------------------------------ */
 
 .banner {
-    background-image: url(/Assets/banner.png);
+    background-image: url(Assets/banner.png);
     display: flex;
     flex-wrap: wrap;
     background-size: cover;
@@ -411,7 +411,7 @@
 
 /* -----------------------------------------CONTACT US AREA STARTS----------------------------- */
 .contactus {
-    background-image: url(/Assets/footer-img.png);
+    background-image: url(Assets/footer-img.png);
     width: 100%;
     height: 691px;
     background-repeat: no-repeat;
